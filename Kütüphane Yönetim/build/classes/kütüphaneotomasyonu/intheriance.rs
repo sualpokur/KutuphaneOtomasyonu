@@ -1,0 +1,3 @@
+kütüphaneotomasyonu.Durum
+kütüphaneotomasyonu.Sonuc
+kütüphaneotomasyonu.Inheritance
